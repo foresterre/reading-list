@@ -7,6 +7,9 @@ ad hoc reading list
 
 * [ ] [Quaternions](http://www.cs.ucr.edu/~vbz/resources/quatut.pdf) by Ken Shoemake
 
+**Programming languages**
+* [ ] [Static Program Analysis](https://cs.au.dk/~amoeller/spa/spa.pdf) by Anders Møller and Michael I. Schwartzbach (2019-12-16)
+
 ...
 
 ## Paper collections
