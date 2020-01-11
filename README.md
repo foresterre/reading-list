@@ -5,7 +5,7 @@ ad hoc reading list
 
 **AI**
 
-* [ ] [An idea from physics helps ai see in higher dimensions](https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109) by John Pavlus (2020-01-09) in Quanta Magazine
+* [x] [An idea from physics helps ai see in higher dimensions](https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109) by John Pavlus (2020-01-09) in Quanta Magazine
 
 ## Selected papers
 
