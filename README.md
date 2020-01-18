@@ -16,6 +16,8 @@ ad hoc reading list
 **Programming languages**
 
 * [ ] [Static Program Analysis](https://cs.au.dk/~amoeller/spa/spa.pdf) by Anders Møller and Michael I. Schwartzbach (2019-12-16)
+* [ ] [An Algorithm for Inferring Quasi-Static Types](https://open.bu.edu/bitstream/handle/2144/1483/1994-013-quasi-static-types.pdf) by Alberto Oliart
+* [ ] [Toward Efficient Gradual Typing for Strctural Types via Coercions](https://akuhlens.github.io/paper/pldi19.pdf) by Andre Kuhlenschmidt, Dayaaeldeen Almahallawi and Jeremy G. Siek
 
 ...
 
