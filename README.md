@@ -9,6 +9,9 @@ ad hoc reading list
 
 ## Selected papers
 
+**Computer Vision**
+* [ ] [Edge Detection Techniques - An Overview](https://pdfs.semanticscholar.org/587a/acc01a4c33f0fe7fb172f5db785f40522b57.pdf)  by Djemel Ziou and Salvatore Tabbone (undated)
+
 **Computer Graphics**
 
 * [ ] [Quaternions](http://www.cs.ucr.edu/~vbz/resources/quatut.pdf) by Ken Shoemake
