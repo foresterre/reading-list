@@ -1,6 +1,10 @@
 # reading-list
 ad hoc reading list
 
+<!-- template:
+* [ ] [ARTICLE](URL) by AUTHOR (yyyy-mm-dd) 
+-->
+
 ## Articles
 
 **AI**
@@ -22,6 +26,7 @@ ad hoc reading list
 * [ ] [An Algorithm for Inferring Quasi-Static Types](https://open.bu.edu/bitstream/handle/2144/1483/1994-013-quasi-static-types.pdf) by Alberto Oliart (1994-12-14)
 * [ ] [Toward Efficient Gradual Typing for Structural Types via Coercions](https://akuhlens.github.io/paper/pldi19.pdf) by Andre Kuhlenschmidt, Dayaaeldeen Almahallawi and Jeremy G. Siek (2019-06-22)
 
+* [ ] [Re-Rebalancing Coherence](https://github.com/rust-lang/rfcs/blob/master/text/2451-re-rebalancing-coherence.md) by Sean Griffin (2018-05-30) _Rust_
 ...
 
 ## Paper collections
